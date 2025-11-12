@@ -1,4 +1,4 @@
-# Hi, I'm Kimia 👋
+# Hi, I'm Kimiya 👋
 
 > crafting logic with a touch of art.  
 > somewhere between colors and code — I find my kind of order.
