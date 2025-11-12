@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kimia 👋
 
-<!--
-**kimiya-31/kimiya-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> crafting logic with a touch of art.  
+> somewhere between colors and code — I find my kind of order.
 
-Here are some ideas to get you started:
+I love turning abstract ideas into something that quietly works —  
+a balance between imagination and precision.  
+Sometimes I paint, sometimes I code. Both feel the same.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌸 About Me
+- 🎨 Artist at heart, developer by curiosity  
+- 💻 Exploring where creativity meets computation  
+- ☕ fueled by calm mornings and endless ideas  
+
+---
+
+### 📫 Connect with Me
+[![GitHub]
+[![Instagram]
+
+---
+
+### ✨ Quote I live by
+> “Art is how we decorate space; code is how we decorate time
